@@ -48,44 +48,37 @@ For Linux:
 gcc main.c -o cube -lglfw -lGL -lGLEW -lm -lGLU
 ./cube
 ```
-🎮 Controls
+## 🎮 Controls  
+
+| **Key**  | **Action**  |  
+|----------|------------|  
+| ⬆️ ⬇️ ⬅️ ➡️  | Translate the cube |  
+| `W/S`  | Rotate along X-axis |  
+| `A/D`  | Rotate along Y-axis |  
+| `Q/E`  | Scale the cube |  
+| `Z/X`  | Shear along X-axis |  
+| `C/V`  | Shear along Y-axis |  
+| `R`  | Reset transformations |  
+| 🖱️ Mouse | Rotate dynamically |  
 
 
-⬆️ ⬇️ ⬅️ ➡️ =	Translate the cube
-
-W/S =	Rotate along X-axis
-
-A/D =	Rotate along Y-axis
-
-Q/E	 = Scale the cube
-
-Z/X	= Shear along X-axis
-
-C/V =	Shear along Y-axis
-
-R	 =Reset transformations
-
-🖱️ Mouse =	Rotate dynamically
-
-🖼️ Screenshots
+## 🖼️ Screenshots  
 
 
 ![Screenshot (41)](https://github.com/user-attachments/assets/742c5c6b-f59b-4348-a25c-71d27368e19e)
 ![Screenshot (39)](https://github.com/user-attachments/assets/ed0cc7de-ee46-48e5-b132-5c645535f92b)
 
-🔧 Future Improvements
-
-🚀 Implement lighting & shading for realism
-
-🚀 Add texture mapping for detailed surfaces
-
-🚀 Introduce camera controls for free movement
-
-🚀 Expand to multiple 3D objects
-
-🚀 Improve performance with modern OpenGL (VAOs & VBOs)
+## 🔧 Future Improvements  
+🚀 Implement **lighting & shading** for realism  
+🚀 Add **texture mapping** for detailed surfaces  
+🚀 Introduce **camera controls** for free movement  
+🚀 Expand to **multiple 3D objects**  
+🚀 Improve performance with **modern OpenGL (VAOs & VBOs)**  
+🚀 Enhance **input handling** (mouse scroll, gamepad support)  
 
 
 
-📝 License
+
+## License
+
 This project is licensed under the [MIT License](LICENSE).
