@@ -36,6 +36,7 @@ git clone https://github.com/RakeshThapa332/3D-Cube-Renderer.git
 cd 3D-Cube-Renderer
 ```
 🔹 Compile and Run
+
 For Windows:
 
 ```sh
@@ -67,6 +68,8 @@ R	 =Reset transformations
 🖱️ Mouse =	Rotate dynamically
 
 🖼️ Screenshots
+
+
 ![Screenshot (41)](https://github.com/user-attachments/assets/742c5c6b-f59b-4348-a25c-71d27368e19e)
 ![Screenshot (39)](https://github.com/user-attachments/assets/ed0cc7de-ee46-48e5-b132-5c645535f92b)
 
