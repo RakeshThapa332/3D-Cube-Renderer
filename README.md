@@ -48,15 +48,23 @@ gcc main.c -o cube -lglfw -lGL -lGLEW -lm -lGLU
 ./cube
 ```
 🎮 Controls
-Key	Action
-⬆️ ⬇️ ⬅️ ➡️	Translate the cube
-W/S	Rotate along X-axis
-A/D	Rotate along Y-axis
-Q/E	Scale the cube
-Z/X	Shear along X-axis
-C/V	Shear along Y-axis
-R	Reset transformations
-🖱️ Mouse	Rotate dynamically
+
+
+⬆️ ⬇️ ⬅️ ➡️ =	Translate the cube
+
+W/S =	Rotate along X-axis
+
+A/D =	Rotate along Y-axis
+
+Q/E	 = Scale the cube
+
+Z/X	= Shear along X-axis
+
+C/V =	Shear along Y-axis
+
+R	 =Reset transformations
+
+🖱️ Mouse =	Rotate dynamically
 
 🖼️ Screenshots
 ![Screenshot (41)](https://github.com/user-attachments/assets/742c5c6b-f59b-4348-a25c-71d27368e19e)
@@ -77,4 +85,4 @@ R	Reset transformations
 
 
 📝 License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
